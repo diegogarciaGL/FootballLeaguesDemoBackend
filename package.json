@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "clean": "rm -rf www && mkdir www",
-    "build-server": "babel --extensions '.ts' -d ./www ./src -s",
+    "build-server": "babel --extensions '.ts' -d ./www ./src -s --copy-files",
     "build": "yarn check-types && yarn clean && yarn build-server",
     "start-local": "nodemon --exec babel-node --extensions '.ts' ./src/index.ts",
     "start": "node ./www/index.js",
