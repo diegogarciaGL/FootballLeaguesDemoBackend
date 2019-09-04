@@ -1,0 +1,5237 @@
+[
+  {
+    "id": 2014,
+    "area": {
+      "id": 2224,
+      "name": "Spain"
+    },
+    "name": "Liga BBVA",
+    "code": "PD",
+    "emblemUrl": null,
+    "plan": "TIER_ONE",
+    "currentSeason": {
+      "id": 519,
+      "startDate": "2019-08-16",
+      "endDate": "2020-05-24",
+      "currentMatchday": 3,
+      "winner": null
+    },
+    "numberOfAvailableSeasons": 27,
+    "lastUpdated": "2019-09-02T23:55:10Z",
+    "teams": [
+      {
+        "id": 78,
+        "area": {
+          "id": 2224,
+          "name": "Spain"
+        },
+        "name": "Club Atlético de Madrid",
+        "shortName": "Atleti",
+        "tla": "ATM",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/c/c1/Atletico_Madrid_logo.svg",
+        "address": "Paseo Virgen del Puerto, 67 Madrid 28005",
+        "phone": "+34 (913) 669048",
+        "website": "http://www.clubatleticodemadrid.com",
+        "email": "comunicacion@clubatleticodemadrid.com",
+        "founded": 1903,
+        "clubColors": "Red / White / Blue",
+        "venue": "Estadio Wanda Metropolitano",
+        "lastUpdated": "2019-08-29T02:53:07Z",
+        "squad": [
+          {
+            "id": 21,
+            "name": "Adán",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1987-05-13T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 1,
+            "role": "PLAYER"
+          },
+          {
+            "id": 120,
+            "name": "Jan Oblak",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1993-01-07T00:00:00Z",
+            "countryOfBirth": "Slovenia",
+            "nationality": "Slovenia",
+            "shirtNumber": 13,
+            "role": "PLAYER"
+          },
+          {
+            "id": 15843,
+            "name": "Alex Dos Santos",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1999-01-15T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 115,
+            "name": "José Maria Giménez",
+            "position": "Defender",
+            "dateOfBirth": "1995-01-20T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 116,
+            "name": "Šime Vrsaljko",
+            "position": "Defender",
+            "dateOfBirth": "1992-01-10T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 128,
+            "name": "Antonio Montoro",
+            "position": "Defender",
+            "dateOfBirth": "1997-05-10T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1671,
+            "name": "Renan Lodi",
+            "position": "Defender",
+            "dateOfBirth": "1998-04-08T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": 12,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3312,
+            "name": "Kieran Trippier",
+            "position": "Defender",
+            "dateOfBirth": "1990-09-19T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": 23,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3723,
+            "name": "Santiago Arias",
+            "position": "Defender",
+            "dateOfBirth": "1992-01-13T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 15845,
+            "name": "Stefan Savić",
+            "position": "Defender",
+            "dateOfBirth": "1991-01-08T00:00:00Z",
+            "countryOfBirth": "Montenegro",
+            "nationality": "Montenegro",
+            "shirtNumber": 15,
+            "role": "PLAYER"
+          },
+          {
+            "id": 15848,
+            "name": "Guilherme Siqueira",
+            "position": "Defender",
+            "dateOfBirth": "1986-04-28T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 15849,
+            "name": "Carlos Isaac",
+            "position": "Defender",
+            "dateOfBirth": "1998-04-30T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 15903,
+            "name": "Felipe",
+            "position": "Defender",
+            "dateOfBirth": "1989-05-16T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": 18,
+            "role": "PLAYER"
+          },
+          {
+            "id": 32703,
+            "name": "Mario Hermoso",
+            "position": "Defender",
+            "dateOfBirth": "1995-06-18T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 22,
+            "role": "PLAYER"
+          },
+          {
+            "id": 83561,
+            "name": "Andres Solano Davila",
+            "position": "Defender",
+            "dateOfBirth": "1998-02-24T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 83563,
+            "name": "Francisco Montero",
+            "position": "Defender",
+            "dateOfBirth": "1999-01-14T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 128731,
+            "name": "Rodrigo Riquelme Reche",
+            "position": "Defender",
+            "dateOfBirth": "2000-04-02T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 32,
+            "role": "PLAYER"
+          },
+          {
+            "id": 70,
+            "name": "Marcos Llorente",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-01-30T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 14,
+            "role": "PLAYER"
+          },
+          {
+            "id": 110,
+            "name": "Teye Partey",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-06-13T00:00:00Z",
+            "countryOfBirth": "Ghana",
+            "nationality": "Ghana",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 112,
+            "name": "Koke",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-01-08T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 6,
+            "role": "PLAYER"
+          },
+          {
+            "id": 118,
+            "name": "Saúl",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-11-21T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 8,
+            "role": "PLAYER"
+          },
+          {
+            "id": 126,
+            "name": "Vitolo",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-11-02T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 20,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3294,
+            "name": "Héctor Herrera",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-04-19T00:00:00Z",
+            "countryOfBirth": "Mexico",
+            "nationality": "Mexico",
+            "shirtNumber": 16,
+            "role": "PLAYER"
+          },
+          {
+            "id": 15851,
+            "name": "Juan Moreno Fernández",
+            "position": "Midfielder",
+            "dateOfBirth": "1997-05-11T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 15853,
+            "name": "Ferni",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-04-07T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 15854,
+            "name": "Toni Moya",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-03-20T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 15855,
+            "name": "Alberto Rodenas Martinez",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-09-26T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 15856,
+            "name": "Juan Aguero Nuñez",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-05-27T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 39265,
+            "name": "João Félix",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-11-10T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "shirtNumber": 7,
+            "role": "PLAYER"
+          },
+          {
+            "id": 111564,
+            "name": "Mikel Carro Fandiño",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-01-25T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 118715,
+            "name": "Sanchez De La Peña",
+            "position": "Midfielder",
+            "dateOfBirth": "2000-08-24T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 113,
+            "name": "Diego Costa",
+            "position": "Attacker",
+            "dateOfBirth": "1988-10-07T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Spain",
+            "shirtNumber": 19,
+            "role": "PLAYER"
+          },
+          {
+            "id": 125,
+            "name": "Ángel Correa",
+            "position": "Attacker",
+            "dateOfBirth": "1995-03-09T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1761,
+            "name": "Nikola Kalinić",
+            "position": "Attacker",
+            "dateOfBirth": "1988-01-05T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3369,
+            "name": "Thomas Lemar",
+            "position": "Attacker",
+            "dateOfBirth": "1995-11-12T00:00:00Z",
+            "countryOfBirth": "Guadeloupe",
+            "nationality": "France",
+            "shirtNumber": 11,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7819,
+            "name": "Álvaro Morata",
+            "position": "Attacker",
+            "dateOfBirth": "1992-10-23T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 9,
+            "role": "PLAYER"
+          },
+          {
+            "id": 9302,
+            "name": "Ivan Šaponjić",
+            "position": "Attacker",
+            "dateOfBirth": "1997-08-02T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "shirtNumber": 17,
+            "role": "PLAYER"
+          },
+          {
+            "id": 15857,
+            "name": "Giovanni Navarro",
+            "position": "Attacker",
+            "dateOfBirth": "1999-06-23T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 83562,
+            "name": "Borja Garces Moreno",
+            "position": "Attacker",
+            "dateOfBirth": "1999-08-06T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 102330,
+            "name": "Victor Mollejo",
+            "position": "Attacker",
+            "dateOfBirth": "2001-01-21T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 115175,
+            "name": "Sergio Camello",
+            "position": "Attacker",
+            "dateOfBirth": "2001-02-10T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 132,
+            "name": "Diego Simeone",
+            "position": null,
+            "dateOfBirth": "1970-04-28T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "COACH"
+          },
+          {
+            "id": 15859,
+            "name": "Germán Burgos",
+            "position": null,
+            "dateOfBirth": "1969-04-16T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "ASSISTANT_COACH"
+          }
+        ]
+      },
+      {
+        "id": 81,
+        "area": {
+          "id": 2224,
+          "name": "Spain"
+        },
+        "name": "FC Barcelona",
+        "shortName": "Barça",
+        "tla": "FCB",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/a/aa/Fc_barcelona.svg",
+        "address": "Avenida Arístides Maillol s/n Barcelona 08028",
+        "phone": "+34 (902) 189900",
+        "website": "http://www.fcbarcelona.com",
+        "email": "secretaria@fcbarcelona.com",
+        "founded": 1899,
+        "clubColors": "Red / Navy Blue / Orange",
+        "venue": "Camp Nou",
+        "lastUpdated": "2019-08-29T02:53:12Z",
+        "squad": [
+          {
+            "id": 3173,
+            "name": "Marc-André ter Stegen",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-04-30T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 1,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3221,
+            "name": "Neto",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-07-19T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 32507,
+            "name": "Jokin Ezkieta Mendiburu",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1996-08-17T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 98751,
+            "name": "Iñaki Peña",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1999-03-02T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 26,
+            "role": "PLAYER"
+          },
+          {
+            "id": 63,
+            "name": "Clément Lenglet",
+            "position": "Defender",
+            "dateOfBirth": "1995-06-17T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 15,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3190,
+            "name": "Piqué",
+            "position": "Defender",
+            "dateOfBirth": "1987-02-02T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 3,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3193,
+            "name": "Jordi Alba",
+            "position": "Defender",
+            "dateOfBirth": "1989-03-21T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 18,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3361,
+            "name": "Samuel Umtiti",
+            "position": "Defender",
+            "dateOfBirth": "1993-11-14T00:00:00Z",
+            "countryOfBirth": "Cameroon",
+            "nationality": "France",
+            "shirtNumber": 23,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3623,
+            "name": "Moussa Wagué",
+            "position": "Defender",
+            "dateOfBirth": "1998-10-04T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "shirtNumber": 16,
+            "role": "PLAYER"
+          },
+          {
+            "id": 15862,
+            "name": "Nelsinho",
+            "position": "Defender",
+            "dateOfBirth": "1993-11-16T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "shirtNumber": 2,
+            "role": "PLAYER"
+          },
+          {
+            "id": 32768,
+            "name": "Juan Brandáriz",
+            "position": "Defender",
+            "dateOfBirth": "1999-03-02T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 33037,
+            "name": "Júnior Firpo",
+            "position": "Defender",
+            "dateOfBirth": "1996-05-10T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 24,
+            "role": "PLAYER"
+          },
+          {
+            "id": 98750,
+            "name": "Jorge Cuenca",
+            "position": "Defender",
+            "dateOfBirth": "1999-11-17T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 99972,
+            "name": "Guillem Jaime",
+            "position": "Defender",
+            "dateOfBirth": "1999-01-06T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 358,
+            "name": "Arturo Vidal",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-05-22T00:00:00Z",
+            "countryOfBirth": "Chile",
+            "nationality": "Chile",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1148,
+            "name": "Arthur",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-08-12T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2012,
+            "name": "Rafinha",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-02-12T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": 12,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3554,
+            "name": "Ivan Rakitić",
+            "position": "Midfielder",
+            "dateOfBirth": "1988-03-10T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Croatia",
+            "shirtNumber": 4,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7559,
+            "name": "Frenkie de Jong",
+            "position": "Midfielder",
+            "dateOfBirth": "1997-05-12T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": 21,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8440,
+            "name": "Marlon",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-09-07T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": 2,
+            "role": "PLAYER"
+          },
+          {
+            "id": 10179,
+            "name": "Busquets",
+            "position": "Midfielder",
+            "dateOfBirth": "1988-07-16T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 5,
+            "role": "PLAYER"
+          },
+          {
+            "id": 15865,
+            "name": "Sergi Roberto",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-02-07T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 20,
+            "role": "PLAYER"
+          },
+          {
+            "id": 15867,
+            "name": "Carles Aleñà",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-01-05T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 19,
+            "role": "PLAYER"
+          },
+          {
+            "id": 32510,
+            "name": "Carles Pérez",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-02-16T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 27,
+            "role": "PLAYER"
+          },
+          {
+            "id": 32778,
+            "name": "Álex Collado",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-04-22T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 79903,
+            "name": "Jean-Clair Todibo",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-12-30T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 114,
+            "name": "Antoine Griezmann",
+            "position": "Attacker",
+            "dateOfBirth": "1991-03-21T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 17,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3169,
+            "name": "Luis Suárez",
+            "position": "Attacker",
+            "dateOfBirth": "1987-01-24T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3218,
+            "name": "Lionel Messi",
+            "position": "Attacker",
+            "dateOfBirth": "1987-06-24T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3373,
+            "name": "Ousmane Dembélé",
+            "position": "Attacker",
+            "dateOfBirth": "1997-05-15T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 11,
+            "role": "PLAYER"
+          },
+          {
+            "id": 32511,
+            "name": "Abel Ruiz",
+            "position": "Attacker",
+            "dateOfBirth": "2000-01-28T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 32781,
+            "name": "Riqui Puig",
+            "position": "Attacker",
+            "dateOfBirth": "1999-08-13T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 128040,
+            "name": "Anssumane Fati",
+            "position": "Attacker",
+            "dateOfBirth": "2002-10-31T00:00:00Z",
+            "countryOfBirth": "Guinea-Bissau",
+            "nationality": "Guinea-Bissau",
+            "shirtNumber": 31,
+            "role": "PLAYER"
+          },
+          {
+            "id": 15873,
+            "name": "Ernesto Valverde",
+            "position": null,
+            "dateOfBirth": "1964-02-09T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "COACH"
+          }
+        ]
+      },
+      {
+        "id": 86,
+        "area": {
+          "id": 2224,
+          "name": "Spain"
+        },
+        "name": "Real Madrid CF",
+        "shortName": "Real Madrid",
+        "tla": "RMA",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg",
+        "address": "Avenida Concha Espina, 1 Madrid 28036",
+        "phone": "+34 (913) 984300",
+        "website": "http://www.realmadrid.com",
+        "email": "atencionpublico@corp.realmadrid.com",
+        "founded": 1902,
+        "clubColors": "White / Purple",
+        "venue": "Estadio Santiago Bernabéu",
+        "lastUpdated": "2019-08-29T02:53:16Z",
+        "squad": [
+          {
+            "id": 51,
+            "name": "Keylor Navas",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1986-12-15T00:00:00Z",
+            "countryOfBirth": "Costa Rica",
+            "nationality": "Costa Rica",
+            "shirtNumber": 1,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3641,
+            "name": "Thibaut Courtois",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-05-11T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "shirtNumber": 13,
+            "role": "PLAYER"
+          },
+          {
+            "id": 48,
+            "name": "Marcelo",
+            "position": "Defender",
+            "dateOfBirth": "1988-05-12T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": 12,
+            "role": "PLAYER"
+          },
+          {
+            "id": 50,
+            "name": "Nacho",
+            "position": "Defender",
+            "dateOfBirth": "1990-01-18T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 6,
+            "role": "PLAYER"
+          },
+          {
+            "id": 71,
+            "name": "Theo Hernández",
+            "position": "Defender",
+            "dateOfBirth": "1997-10-06T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1337,
+            "name": "Éder Militão",
+            "position": "Defender",
+            "dateOfBirth": "1998-01-18T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3192,
+            "name": "Sergio Ramos",
+            "position": "Defender",
+            "dateOfBirth": "1986-03-30T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 4,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3194,
+            "name": "Dani Carvajal",
+            "position": "Defender",
+            "dateOfBirth": "1992-01-11T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 2,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3360,
+            "name": "Raphaël Varane",
+            "position": "Defender",
+            "dateOfBirth": "1993-04-25T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 5,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8458,
+            "name": "Ferland Mendy",
+            "position": "Defender",
+            "dateOfBirth": "1995-06-08T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 23,
+            "role": "PLAYER"
+          },
+          {
+            "id": 80899,
+            "name": "Javier Sánchez",
+            "position": "Defender",
+            "dateOfBirth": "1997-03-14T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 98741,
+            "name": "Adrián Barquilla",
+            "position": "Defender",
+            "dateOfBirth": "1999-02-26T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 43,
+            "name": "Luka Modrić",
+            "position": "Midfielder",
+            "dateOfBirth": "1985-09-09T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "shirtNumber": 10,
+            "role": "PLAYER"
+          },
+          {
+            "id": 45,
+            "name": "Lucas Vázquez",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-07-01T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 17,
+            "role": "PLAYER"
+          },
+          {
+            "id": 47,
+            "name": "Toni Kroos",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-01-04T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 8,
+            "role": "PLAYER"
+          },
+          {
+            "id": 52,
+            "name": "Marco Asensio",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-01-21T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 66,
+            "name": "Isco",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-04-21T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 22,
+            "role": "PLAYER"
+          },
+          {
+            "id": 96,
+            "name": "Federico Valverde",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-07-22T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 365,
+            "name": "James Rodríguez",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-07-12T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1250,
+            "name": "Lucas Silva",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-02-16T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3231,
+            "name": "Casemiro",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-02-23T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3653,
+            "name": "Eden Hazard",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-01-07T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3876,
+            "name": "Gareth Bale",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-07-16T00:00:00Z",
+            "countryOfBirth": "Wales",
+            "nationality": "Wales",
+            "shirtNumber": 11,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7887,
+            "name": "Brahim Diaz",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-08-03T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 99992,
+            "name": "Álvaro Fidalgo",
+            "position": "Midfielder",
+            "dateOfBirth": "1997-04-09T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 11,
+            "name": "Álvaro Odriozola",
+            "position": "Attacker",
+            "dateOfBirth": "1995-12-14T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 19,
+            "role": "PLAYER"
+          },
+          {
+            "id": 49,
+            "name": "Karim Benzema",
+            "position": "Attacker",
+            "dateOfBirth": "1987-12-19T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 9,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1324,
+            "name": "Rodrygo",
+            "position": "Attacker",
+            "dateOfBirth": "2001-01-09T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1556,
+            "name": "Vinicius Junior",
+            "position": "Attacker",
+            "dateOfBirth": "2000-07-12T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": 28,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3879,
+            "name": "Francisco Feuillasier Abalo",
+            "position": "Attacker",
+            "dateOfBirth": "1998-05-12T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 6723,
+            "name": "Luka Jović",
+            "position": "Attacker",
+            "dateOfBirth": "1997-12-23T00:00:00Z",
+            "countryOfBirth": "Bosnia and Herzegovina",
+            "nationality": "Serbia",
+            "shirtNumber": 18,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8474,
+            "name": "Mariano Díaz",
+            "position": "Attacker",
+            "dateOfBirth": "1993-08-01T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Dominican Republic",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 99993,
+            "name": "Francisco Garcia",
+            "position": "Attacker",
+            "dateOfBirth": "1999-08-14T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 79,
+            "name": "Zinedine Zidane",
+            "position": null,
+            "dateOfBirth": "1972-06-23T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "COACH"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2021,
+    "area": {
+      "id": 2072,
+      "name": "England"
+    },
+    "name": "Premier League",
+    "code": "PL",
+    "emblemUrl": null,
+    "plan": "TIER_ONE",
+    "currentSeason": {
+      "id": 468,
+      "startDate": "2019-08-09",
+      "endDate": "2020-05-17",
+      "currentMatchday": 4,
+      "winner": null
+    },
+    "numberOfAvailableSeasons": 27,
+    "lastUpdated": "2019-09-02T17:10:03Z",
+    "teams": [
+      {
+        "id": 57,
+        "area": {
+          "id": 2072,
+          "name": "England"
+        },
+        "name": "Arsenal FC",
+        "shortName": "Arsenal",
+        "tla": "ARS",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+        "address": "75 Drayton Park London N5 1BU",
+        "phone": "+44 (020) 76195003",
+        "website": "http://www.arsenal.com",
+        "email": "info@arsenal.co.uk",
+        "founded": 1886,
+        "clubColors": "Red / White",
+        "venue": "Emirates Stadium",
+        "lastUpdated": "2019-08-29T02:42:28Z",
+        "squad": [
+          {
+            "id": 3141,
+            "name": "Emiliano Martínez",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-09-02T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": 26,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3174,
+            "name": "Bernd Leno",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-03-04T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 1,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7779,
+            "name": "Matt Macey",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1994-09-09T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 137,
+            "name": "Sokratis Papastathopoulos",
+            "position": "Defender",
+            "dateOfBirth": "1988-06-09T00:00:00Z",
+            "countryOfBirth": "Greece",
+            "nationality": "Greece",
+            "shirtNumber": 5,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7783,
+            "name": "Héctor Bellerín",
+            "position": "Defender",
+            "dateOfBirth": "1995-03-19T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7784,
+            "name": "Rob Holding",
+            "position": "Defender",
+            "dateOfBirth": "1995-09-20T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7785,
+            "name": "Shkodran Mustafi",
+            "position": "Defender",
+            "dateOfBirth": "1992-04-17T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7786,
+            "name": "Sead Kolašinac",
+            "position": "Defender",
+            "dateOfBirth": "1993-06-20T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Bosnia and Herzegovina",
+            "shirtNumber": 31,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7787,
+            "name": "Calum Chambers",
+            "position": "Defender",
+            "dateOfBirth": "1995-01-20T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": 21,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7789,
+            "name": "Konstantinos Mavropanos",
+            "position": "Defender",
+            "dateOfBirth": "1997-12-11T00:00:00Z",
+            "countryOfBirth": "Greece",
+            "nationality": "Greece",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7805,
+            "name": "David Luiz",
+            "position": "Defender",
+            "dateOfBirth": "1987-04-22T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": 23,
+            "role": "PLAYER"
+          },
+          {
+            "id": 15615,
+            "name": "Kieran Tierney",
+            "position": "Defender",
+            "dateOfBirth": "1997-06-05T00:00:00Z",
+            "countryOfBirth": "Isle of Man",
+            "nationality": "Scotland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 68,
+            "name": "Dani Ceballos",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-08-07T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 8,
+            "role": "PLAYER"
+          },
+          {
+            "id": 600,
+            "name": "Mattéo Guendouzi",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-04-14T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 29,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2260,
+            "name": "Lucas Torreira",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-02-11T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3180,
+            "name": "Mesut Özil",
+            "position": "Midfielder",
+            "dateOfBirth": "1988-10-15T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 10,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3477,
+            "name": "Granit Xhaka",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-09-27T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "shirtNumber": 34,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3755,
+            "name": "Mohamed El Neny",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-07-11T00:00:00Z",
+            "countryOfBirth": "Egypt",
+            "nationality": "Egypt",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7792,
+            "name": "Ainsley Maitland-Niles",
+            "position": "Midfielder",
+            "dateOfBirth": "1997-08-29T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": 15,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7795,
+            "name": "Henrikh Mkhitaryan",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-01-21T00:00:00Z",
+            "countryOfBirth": "Armenia",
+            "nationality": "Armenia",
+            "shirtNumber": 7,
+            "role": "PLAYER"
+          },
+          {
+            "id": 61450,
+            "name": "Martinelli",
+            "position": "Midfielder",
+            "dateOfBirth": "2001-06-18T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": 35,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7797,
+            "name": "Alexandre Lacazette",
+            "position": "Attacker",
+            "dateOfBirth": "1991-05-28T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 9,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7798,
+            "name": "Joe Willock",
+            "position": "Attacker",
+            "dateOfBirth": "1999-08-20T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": 28,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7799,
+            "name": "Reiss Nelson",
+            "position": "Attacker",
+            "dateOfBirth": "1999-12-10T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": 24,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7801,
+            "name": "Pierre-Emerick Aubameyang",
+            "position": "Attacker",
+            "dateOfBirth": "1989-06-18T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Gabon",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8412,
+            "name": "Nicolas Pépé",
+            "position": "Attacker",
+            "dateOfBirth": "1995-05-29T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Côte d’Ivoire",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 11616,
+            "name": "Unai Emery",
+            "position": null,
+            "dateOfBirth": "1971-11-03T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "COACH"
+          }
+        ]
+      },
+      {
+        "id": 61,
+        "area": {
+          "id": 2072,
+          "name": "England"
+        },
+        "name": "Chelsea FC",
+        "shortName": "Chelsea",
+        "tla": "CHE",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg",
+        "address": "Fulham Road London SW6 1HS",
+        "phone": "+44 (0871) 9841955",
+        "website": "http://www.chelseafc.com",
+        "email": null,
+        "founded": 1905,
+        "clubColors": "Royal Blue / White",
+        "venue": "Stamford Bridge",
+        "lastUpdated": "2019-08-29T02:32:26Z",
+        "squad": [
+          {
+            "id": 3189,
+            "name": "Kepa Arrizabalaga",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1994-10-03T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 1,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3203,
+            "name": "Willy Caballero",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1981-09-28T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": 13,
+            "role": "PLAYER"
+          },
+          {
+            "id": 101077,
+            "name": "Jamie Cumming",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1999-09-04T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3177,
+            "name": "Antonio Rüdiger",
+            "position": "Defender",
+            "dateOfBirth": "1993-03-03T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3191,
+            "name": "Azpilicueta",
+            "position": "Defender",
+            "dateOfBirth": "1989-08-28T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 28,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3195,
+            "name": "Marcos Alonso",
+            "position": "Defender",
+            "dateOfBirth": "1990-12-28T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 3,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3455,
+            "name": "Andreas Christensen",
+            "position": "Defender",
+            "dateOfBirth": "1996-04-10T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "shirtNumber": 4,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7809,
+            "name": "Emerson",
+            "position": "Defender",
+            "dateOfBirth": "1994-08-03T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Italy",
+            "shirtNumber": 33,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7948,
+            "name": "Kurt Zouma",
+            "position": "Defender",
+            "dateOfBirth": "1994-10-27T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 15,
+            "role": "PLAYER"
+          },
+          {
+            "id": 11528,
+            "name": "Fikayo Tomori",
+            "position": "Defender",
+            "dateOfBirth": "1997-12-19T00:00:00Z",
+            "countryOfBirth": "Canada",
+            "nationality": "England",
+            "shirtNumber": 29,
+            "role": "PLAYER"
+          },
+          {
+            "id": 65,
+            "name": "Mateo Kovačić",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-05-06T00:00:00Z",
+            "countryOfBirth": "Austria",
+            "nationality": "Croatia",
+            "shirtNumber": 17,
+            "role": "PLAYER"
+          },
+          {
+            "id": 145,
+            "name": "Christian Pulisic",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-09-18T00:00:00Z",
+            "countryOfBirth": "United States",
+            "nationality": "United States",
+            "shirtNumber": 22,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2094,
+            "name": "Jorginho",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-20T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Italy",
+            "shirtNumber": 5,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3230,
+            "name": "Willian",
+            "position": "Midfielder",
+            "dateOfBirth": "1988-08-09T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3367,
+            "name": "N'Golo Kanté",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-03-29T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 7,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7450,
+            "name": "Marco van Ginkel",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-12-01T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7599,
+            "name": "Mason Mount",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-01-10T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": 19,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7812,
+            "name": "Tiemoué Bakayoko",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-08-17T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7816,
+            "name": "Callum Hudson-Odoi",
+            "position": "Midfielder",
+            "dateOfBirth": "2000-11-07T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7817,
+            "name": "Ross Barkley",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-12-05T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": 8,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8159,
+            "name": "Ruben Loftus-Cheek",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-01-23T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 15144,
+            "name": "Danilo Pantić",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-10-26T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 126289,
+            "name": "Billy Gilmour",
+            "position": "Midfielder",
+            "dateOfBirth": "2001-06-11T00:00:00Z",
+            "countryOfBirth": "Scotland",
+            "nationality": "Scotland",
+            "shirtNumber": 47,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3371,
+            "name": "Olivier Giroud",
+            "position": "Attacker",
+            "dateOfBirth": "1986-09-30T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 18,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3664,
+            "name": "Michy Batshuayi",
+            "position": "Attacker",
+            "dateOfBirth": "1993-10-02T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "shirtNumber": 23,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3977,
+            "name": "Lucas Piazon",
+            "position": "Attacker",
+            "dateOfBirth": "1994-01-20T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7818,
+            "name": "Pedro",
+            "position": "Attacker",
+            "dateOfBirth": "1987-07-28T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 11,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7939,
+            "name": "Kenedy",
+            "position": "Attacker",
+            "dateOfBirth": "1996-02-08T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": 16,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7985,
+            "name": "Tammy Abraham",
+            "position": "Attacker",
+            "dateOfBirth": "1997-10-02T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": 9,
+            "role": "PLAYER"
+          },
+          {
+            "id": 25598,
+            "name": "Frank Lampard",
+            "position": null,
+            "dateOfBirth": "1978-06-20T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "COACH"
+          }
+        ]
+      },
+      {
+        "id": 64,
+        "area": {
+          "id": 2072,
+          "name": "England"
+        },
+        "name": "Liverpool FC",
+        "shortName": "Liverpool",
+        "tla": "LIV",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg",
+        "address": "Anfield Road Liverpool L4 OTH",
+        "phone": "+44 (0844) 4993000",
+        "website": "http://www.liverpoolfc.tv",
+        "email": "customercontact@liverpoolfc.tv",
+        "founded": 1892,
+        "clubColors": "Red / White",
+        "venue": "Anfield",
+        "lastUpdated": "2019-08-29T02:32:28Z",
+        "squad": [
+          {
+            "id": 1795,
+            "name": "Alisson",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-10-02T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 4133,
+            "name": "Andrew Lonergan",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1983-10-19T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": 22,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8197,
+            "name": "Adrián",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1987-01-03T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 13,
+            "role": "PLAYER"
+          },
+          {
+            "id": 102046,
+            "name": "Caoimhin Kelleher",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1998-11-23T00:00:00Z",
+            "countryOfBirth": "Republic of Ireland",
+            "nationality": "Republic of Ireland",
+            "shirtNumber": 62,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7859,
+            "name": "Dejan Lovren",
+            "position": "Defender",
+            "dateOfBirth": "1989-07-05T00:00:00Z",
+            "countryOfBirth": "Bosnia and Herzegovina",
+            "nationality": "Croatia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7861,
+            "name": "James Milner",
+            "position": "Defender",
+            "dateOfBirth": "1986-01-04T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": 7,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7862,
+            "name": "Joe Gomez",
+            "position": "Defender",
+            "dateOfBirth": "1997-05-23T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": 12,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7863,
+            "name": "Nathaniel Clyne",
+            "position": "Defender",
+            "dateOfBirth": "1991-04-05T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7865,
+            "name": "Joël Matip",
+            "position": "Defender",
+            "dateOfBirth": "1991-08-08T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Cameroon",
+            "shirtNumber": 32,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7867,
+            "name": "Trent Alexander-Arnold",
+            "position": "Defender",
+            "dateOfBirth": "1998-10-07T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": 66,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7868,
+            "name": "Andrew Robertson",
+            "position": "Defender",
+            "dateOfBirth": "1994-03-11T00:00:00Z",
+            "countryOfBirth": "Scotland",
+            "nationality": "Scotland",
+            "shirtNumber": 26,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7869,
+            "name": "Virgil van Dijk",
+            "position": "Defender",
+            "dateOfBirth": "1991-07-08T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": 4,
+            "role": "PLAYER"
+          },
+          {
+            "id": 102044,
+            "name": "Ki-Jana Hoever",
+            "position": "Defender",
+            "dateOfBirth": "2002-01-18T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3233,
+            "name": "Roberto Firmino",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-10-02T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3318,
+            "name": "Adam Lallana",
+            "position": "Midfielder",
+            "dateOfBirth": "1988-05-10T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": 20,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3320,
+            "name": "Jordan Henderson",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-06-17T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": 14,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3323,
+            "name": "Alex Oxlade-Chamberlain",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-08-15T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": 15,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3626,
+            "name": "Sadio Mané",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-04-10T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "shirtNumber": 10,
+            "role": "PLAYER"
+          },
+          {
+            "id": 4407,
+            "name": "Ryan Kent",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-11-11T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7871,
+            "name": "Georginio Wijnaldum",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-11-11T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": 5,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7873,
+            "name": "Curtis Jones",
+            "position": "Midfielder",
+            "dateOfBirth": "2001-01-30T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7955,
+            "name": "Xherdan Shaqiri",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-10-10T00:00:00Z",
+            "countryOfBirth": "Kosovo",
+            "nationality": "Switzerland",
+            "shirtNumber": 23,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8749,
+            "name": "Fabinho",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-10-23T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": 3,
+            "role": "PLAYER"
+          },
+          {
+            "id": 9547,
+            "name": "Naby Keïta",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-02-10T00:00:00Z",
+            "countryOfBirth": "Guinea",
+            "nationality": "Guinea",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3663,
+            "name": "Divock Origi",
+            "position": "Attacker",
+            "dateOfBirth": "1995-04-18T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "shirtNumber": 27,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3754,
+            "name": "Mohamed Salah",
+            "position": "Attacker",
+            "dateOfBirth": "1992-06-15T00:00:00Z",
+            "countryOfBirth": "Egypt",
+            "nationality": "Egypt",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7877,
+            "name": "Rhian Brewster",
+            "position": "Attacker",
+            "dateOfBirth": "2000-04-01T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 92053,
+            "name": "Harvey Elliot",
+            "position": "Attacker",
+            "dateOfBirth": "2003-03-04T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 9344,
+            "name": "Jürgen Klopp",
+            "position": null,
+            "dateOfBirth": "1967-06-16T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "COACH"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2019,
+    "area": {
+      "id": 2114,
+      "name": "Italy"
+    },
+    "name": "Serie A",
+    "code": "SA",
+    "emblemUrl": null,
+    "plan": "TIER_ONE",
+    "currentSeason": {
+      "id": 530,
+      "startDate": "2019-08-24",
+      "endDate": "2020-05-24",
+      "currentMatchday": 2,
+      "winner": null
+    },
+    "numberOfAvailableSeasons": 15,
+    "lastUpdated": "2019-09-02T23:55:06Z",
+    "teams": [
+      {
+        "id": 98,
+        "area": {
+          "id": 2114,
+          "name": "Italy"
+        },
+        "name": "AC Milan",
+        "shortName": "Milan",
+        "tla": "MIL",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/9/9e/AC_Mailand_Logo.svg",
+        "address": "Via Filippo Turati 3 Milano 20121",
+        "phone": "+39 (02) 62281",
+        "website": "http://www.acmilan.com",
+        "email": null,
+        "founded": 1899,
+        "clubColors": "Red / Black",
+        "venue": "Stadio Giuseppe Meazza",
+        "lastUpdated": "2019-08-29T02:58:11Z",
+        "squad": [
+          {
+            "id": 1731,
+            "name": "Gianluigi Donnarumma",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1999-02-25T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": 99,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1733,
+            "name": "Marco Storari",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1977-01-07T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1734,
+            "name": "Antonio Donnarumma",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1990-07-07T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": 90,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1735,
+            "name": "Matteo Soncin",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2001-03-28T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": 84,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2082,
+            "name": "Pepe Reina",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1982-08-31T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 25,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1736,
+            "name": "Ignazio Abate",
+            "position": "Defender",
+            "dateOfBirth": "1986-11-12T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1738,
+            "name": "Davide Calabria",
+            "position": "Defender",
+            "dateOfBirth": "1996-12-06T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": 2,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1740,
+            "name": "Alessio Romagnoli",
+            "position": "Defender",
+            "dateOfBirth": "1995-01-12T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": 13,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1742,
+            "name": "Andrea Conti",
+            "position": "Defender",
+            "dateOfBirth": "1994-03-02T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": 12,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1745,
+            "name": "Ricardo Rodriguez",
+            "position": "Defender",
+            "dateOfBirth": "1992-08-25T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "shirtNumber": 68,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1746,
+            "name": "Mateo Musacchio",
+            "position": "Defender",
+            "dateOfBirth": "1990-08-26T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": 22,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1747,
+            "name": "Franck Kessié",
+            "position": "Defender",
+            "dateOfBirth": "1996-12-19T00:00:00Z",
+            "countryOfBirth": "Côte d’Ivoire",
+            "nationality": "Côte d’Ivoire",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1833,
+            "name": "Mattia Caldara",
+            "position": "Defender",
+            "dateOfBirth": "1994-05-05T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1542,
+            "name": "Léo Duarte",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-07-17T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": 43,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1543,
+            "name": "Lucas Paquetá",
+            "position": "Midfielder",
+            "dateOfBirth": "1997-08-27T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1749,
+            "name": "Riccardo Montolivo",
+            "position": "Midfielder",
+            "dateOfBirth": "1985-01-18T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1750,
+            "name": "Giacomo Bonaventura",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-08-22T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": 5,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1752,
+            "name": "Suso",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-11-19T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 8,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1753,
+            "name": "Matteo Gabbia",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-10-21T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": 46,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1754,
+            "name": "Hakan Çalhanoğlu",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-02-08T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Turkey",
+            "shirtNumber": 10,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1755,
+            "name": "Lucas Biglia",
+            "position": "Midfielder",
+            "dateOfBirth": "1986-01-30T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1756,
+            "name": "Josè Mauri",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-05-16T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1979,
+            "name": "Andrea Bertolacci",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-01-11T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2494,
+            "name": "Rade Krunić",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-10-07T00:00:00Z",
+            "countryOfBirth": "Bosnia and Herzegovina",
+            "nationality": "Bosnia and Herzegovina",
+            "shirtNumber": 33,
+            "role": "PLAYER"
+          },
+          {
+            "id": 99858,
+            "name": "Marco Brescianini",
+            "position": "Midfielder",
+            "dateOfBirth": "2000-01-20T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1758,
+            "name": "Fabio Borini",
+            "position": "Attacker",
+            "dateOfBirth": "1991-03-29T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": 11,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1760,
+            "name": "André Silva",
+            "position": "Attacker",
+            "dateOfBirth": "1995-11-06T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "shirtNumber": 27,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1765,
+            "name": "Emmanuel Torres",
+            "position": "Attacker",
+            "dateOfBirth": "1992-01-24T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2505,
+            "name": "Ismael Bennacer",
+            "position": "Attacker",
+            "dateOfBirth": "1997-12-01T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Algeria",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 10203,
+            "name": "Krzysztof Piątek",
+            "position": "Attacker",
+            "dateOfBirth": "1995-07-01T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "shirtNumber": 9,
+            "role": "PLAYER"
+          },
+          {
+            "id": 15892,
+            "name": "Rafael Leão",
+            "position": "Attacker",
+            "dateOfBirth": "1999-06-10T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "shirtNumber": 17,
+            "role": "PLAYER"
+          },
+          {
+            "id": 33126,
+            "name": "Samu Castillejo",
+            "position": "Attacker",
+            "dateOfBirth": "1995-01-18T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 7,
+            "role": "PLAYER"
+          },
+          {
+            "id": 11019,
+            "name": "Marco Giampaolo",
+            "position": null,
+            "dateOfBirth": "1967-08-02T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "shirtNumber": null,
+            "role": "COACH"
+          }
+        ]
+      },
+      {
+        "id": 100,
+        "area": {
+          "id": 2114,
+          "name": "Italy"
+        },
+        "name": "AS Roma",
+        "shortName": "Roma",
+        "tla": "ROM",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/3/32/AS_Rom.svg",
+        "address": "Via di Trigoria km. 3,600 Roma 00128",
+        "phone": "+39 (06) 501911",
+        "website": "http://www.asroma.it",
+        "email": "info@asromaweb.com",
+        "founded": 1927,
+        "clubColors": "Maroon / Orange / White",
+        "venue": "Stadio Olimpico",
+        "lastUpdated": "2019-08-29T02:58:13Z",
+        "squad": [
+          {
+            "id": 1169,
+            "name": "Daniel Fuzato",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1997-07-04T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": 63,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1861,
+            "name": "Antonio Mirante",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1983-07-08T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": 83,
+            "role": "PLAYER"
+          },
+          {
+            "id": 32695,
+            "name": "Pau López",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1994-12-13T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 13,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1799,
+            "name": "Silvio Anočič",
+            "position": "Defender",
+            "dateOfBirth": "1997-09-10T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1800,
+            "name": "Federico Fazio",
+            "position": "Defender",
+            "dateOfBirth": "1987-03-17T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": 20,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1801,
+            "name": "Juan",
+            "position": "Defender",
+            "dateOfBirth": "1991-06-10T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": 5,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1804,
+            "name": "Aleksandar Kolarov",
+            "position": "Defender",
+            "dateOfBirth": "1985-11-10T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "shirtNumber": 11,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1807,
+            "name": "Devid Bouah",
+            "position": "Defender",
+            "dateOfBirth": "2001-08-13T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1837,
+            "name": "Gianluca Mancini",
+            "position": "Defender",
+            "dateOfBirth": "1996-04-17T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": 23,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1996,
+            "name": "Davide Santon",
+            "position": "Defender",
+            "dateOfBirth": "1991-01-02T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": 18,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7807,
+            "name": "Davide Zappacosta",
+            "position": "Defender",
+            "dateOfBirth": "1992-06-11T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": 2,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7896,
+            "name": "Chris Smalling",
+            "position": "Defender",
+            "dateOfBirth": "1989-11-22T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": 6,
+            "role": "PLAYER"
+          },
+          {
+            "id": 30354,
+            "name": "Yıldırım Mert Çetin",
+            "position": "Defender",
+            "dateOfBirth": "1997-01-01T00:00:00Z",
+            "countryOfBirth": "Turkey",
+            "nationality": "Turkey",
+            "shirtNumber": 15,
+            "role": "PLAYER"
+          },
+          {
+            "id": 113964,
+            "name": "Francesco Semeraro",
+            "position": "Defender",
+            "dateOfBirth": "2001-05-01T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 113966,
+            "name": "Riccardo Cargnelutti",
+            "position": "Defender",
+            "dateOfBirth": "1999-02-08T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1783,
+            "name": "Jordan Veretout",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-03-01T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 21,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1811,
+            "name": "Alessandro Florenzi",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-03-11T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": 24,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1814,
+            "name": "Diego Perotti",
+            "position": "Midfielder",
+            "dateOfBirth": "1988-07-26T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1816,
+            "name": "Maxime Gonalons",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-03-10T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1818,
+            "name": "Cengiz Ünder",
+            "position": "Midfielder",
+            "dateOfBirth": "1997-07-14T00:00:00Z",
+            "countryOfBirth": "Turkey",
+            "nationality": "Turkey",
+            "shirtNumber": 17,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1819,
+            "name": "Lorenzo Pellegrini",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-06-19T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": 7,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1842,
+            "name": "Leonardo Spinazzola",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-03-25T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1844,
+            "name": "Bryan Cristante",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-03-03T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": 4,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2013,
+            "name": "Nicolò Zaniolo",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-07-02T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": 22,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2099,
+            "name": "Amadou Diawara",
+            "position": "Midfielder",
+            "dateOfBirth": "1997-07-17T00:00:00Z",
+            "countryOfBirth": "Guinea",
+            "nationality": "Guinea",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7561,
+            "name": "Justin Kluivert",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-05-05T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": 99,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8483,
+            "name": "Javier Pastore",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-06-20T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": 27,
+            "role": "PLAYER"
+          },
+          {
+            "id": 113965,
+            "name": "Salvatore Pezzella",
+            "position": "Midfielder",
+            "dateOfBirth": "2000-03-11T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1822,
+            "name": "Edin Džeko",
+            "position": "Attacker",
+            "dateOfBirth": "1986-03-17T00:00:00Z",
+            "countryOfBirth": "Bosnia and Herzegovina",
+            "nationality": "Bosnia and Herzegovina",
+            "shirtNumber": 9,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1825,
+            "name": "Mirko Antonucci",
+            "position": "Attacker",
+            "dateOfBirth": "1999-03-11T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": 48,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1827,
+            "name": "Alessio Riccardi",
+            "position": "Attacker",
+            "dateOfBirth": "2001-04-03T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 56576,
+            "name": "Filippo Franchi",
+            "position": "Attacker",
+            "dateOfBirth": "1998-01-14T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 98275,
+            "name": "Gianmarco Cangiano",
+            "position": "Attacker",
+            "dateOfBirth": "2001-11-16T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 100105,
+            "name": "Ludovico D'Orazio",
+            "position": "Attacker",
+            "dateOfBirth": "2000-02-19T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 16490,
+            "name": "Paulo Fonseca",
+            "position": null,
+            "dateOfBirth": "1973-03-05T00:00:00Z",
+            "countryOfBirth": "Mozambique",
+            "nationality": "Portugal",
+            "shirtNumber": null,
+            "role": "COACH"
+          }
+        ]
+      },
+      {
+        "id": 109,
+        "area": {
+          "id": 2114,
+          "name": "Italy"
+        },
+        "name": "Juventus FC",
+        "shortName": "Juve",
+        "tla": "JUV",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/d/d2/Juventus_Turin.svg",
+        "address": "Corso Galileo Ferraris, 32 Torino 10128",
+        "phone": "+39 (011) 65631",
+        "website": "http://www.juventus.com",
+        "email": "francesco.gianello@juventus.com",
+        "founded": 1897,
+        "clubColors": "White / Black",
+        "venue": "Allianz Stadium",
+        "lastUpdated": "2019-08-29T02:58:22Z",
+        "squad": [
+          {
+            "id": 1959,
+            "name": "Mattia Perin",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-11-10T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2019,
+            "name": "Gianluigi Buffon",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1978-01-28T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": 77,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2020,
+            "name": "Leonardo Loria",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1999-03-28T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2022,
+            "name": "Wojciech Szczęsny",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1990-04-18T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "shirtNumber": 1,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2023,
+            "name": "Carlo Pinsoglio",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1990-03-16T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": 31,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1744,
+            "name": "Leonardo Bonucci",
+            "position": "Defender",
+            "dateOfBirth": "1987-05-01T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": 19,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2025,
+            "name": "Giorgio Chiellini",
+            "position": "Defender",
+            "dateOfBirth": "1984-08-14T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": 3,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2027,
+            "name": "Daniele Rugani",
+            "position": "Defender",
+            "dateOfBirth": "1994-07-29T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": 24,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2028,
+            "name": "Alex Sandro",
+            "position": "Defender",
+            "dateOfBirth": "1991-01-26T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2030,
+            "name": "Mattia De Sciglio",
+            "position": "Defender",
+            "dateOfBirth": "1992-10-20T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": 2,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7549,
+            "name": "Matthijs de Ligt",
+            "position": "Defender",
+            "dateOfBirth": "1999-08-12T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": 4,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7881,
+            "name": "Danilo",
+            "position": "Defender",
+            "dateOfBirth": "1991-07-15T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": 13,
+            "role": "PLAYER"
+          },
+          {
+            "id": 37118,
+            "name": "Merih Demiral",
+            "position": "Defender",
+            "dateOfBirth": "1998-03-05T00:00:00Z",
+            "countryOfBirth": "Turkey",
+            "nationality": "Turkey",
+            "shirtNumber": 28,
+            "role": "PLAYER"
+          },
+          {
+            "id": 57833,
+            "name": "Luca Coccolo",
+            "position": "Defender",
+            "dateOfBirth": "1998-02-23T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 99282,
+            "name": "Paolo Gozzi Iweru",
+            "position": "Defender",
+            "dateOfBirth": "2001-04-25T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2035,
+            "name": "Sami Khedira",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-04-04T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 6,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2036,
+            "name": "Miralem Pjanić",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-04-02T00:00:00Z",
+            "countryOfBirth": "Bosnia and Herzegovina",
+            "nationality": "Bosnia and Herzegovina",
+            "shirtNumber": 5,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2037,
+            "name": "Juan Cuadrado",
+            "position": "Midfielder",
+            "dateOfBirth": "1988-05-26T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2038,
+            "name": "Simone Muratore",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-05-30T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2039,
+            "name": "Douglas Costa",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-09-14T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": 11,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2040,
+            "name": "Federico Bernardeschi",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-02-16T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": 33,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2041,
+            "name": "Rodrigo Bentancur",
+            "position": "Midfielder",
+            "dateOfBirth": "1997-06-05T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2042,
+            "name": "Blaise Matuidi",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-04-09T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 14,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3183,
+            "name": "Emre Can",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-01-12T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 23,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3368,
+            "name": "Adrien Rabiot",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-04-03T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 25,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7791,
+            "name": "Aaron Ramsey",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-12-26T00:00:00Z",
+            "countryOfBirth": "Wales",
+            "nationality": "Wales",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 97879,
+            "name": "Nicolò Fagioli",
+            "position": "Midfielder",
+            "dateOfBirth": "2001-02-12T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 101080,
+            "name": "Manolo Portanova",
+            "position": "Midfielder",
+            "dateOfBirth": "2000-06-02T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 44,
+            "name": "Cristiano Ronaldo",
+            "position": "Attacker",
+            "dateOfBirth": "1985-02-05T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "shirtNumber": 7,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2045,
+            "name": "Mario Mandžukić",
+            "position": "Attacker",
+            "dateOfBirth": "1986-05-21T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "shirtNumber": 17,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2046,
+            "name": "Paulo Dybala",
+            "position": "Attacker",
+            "dateOfBirth": "1993-11-15T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2047,
+            "name": "Gonzalo Higuaín",
+            "position": "Attacker",
+            "dateOfBirth": "1987-12-10T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Argentina",
+            "shirtNumber": 21,
+            "role": "PLAYER"
+          },
+          {
+            "id": 56853,
+            "name": "Idrissa Touré",
+            "position": "Attacker",
+            "dateOfBirth": "1998-04-29T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 97894,
+            "name": "Hans Nicolussi Caviglia",
+            "position": "Attacker",
+            "dateOfBirth": "2000-06-18T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 99581,
+            "name": "Pablo Moreno Taboada",
+            "position": "Attacker",
+            "dateOfBirth": "2002-05-03T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 10983,
+            "name": "Maurizio Sarri",
+            "position": null,
+            "dateOfBirth": "1959-01-10T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": "COACH"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2002,
+    "area": {
+      "id": 2088,
+      "name": "Germany"
+    },
+    "name": "Bundesliga",
+    "code": "BL1",
+    "emblemUrl": null,
+    "plan": "TIER_ONE",
+    "currentSeason": {
+      "id": 474,
+      "startDate": "2019-08-16",
+      "endDate": "2020-05-16",
+      "currentMatchday": 3,
+      "winner": null
+    },
+    "numberOfAvailableSeasons": 24,
+    "lastUpdated": "2019-09-02T17:25:04Z",
+    "teams": [
+      {
+        "id": 3,
+        "area": {
+          "id": 2088,
+          "name": "Germany"
+        },
+        "name": "Bayer 04 Leverkusen",
+        "shortName": "Leverkusen",
+        "tla": "B04",
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/en/5/59/Bayer_04_Leverkusen_logo.svg",
+        "address": "Bismarckstr. 122-124 Leverkusen 51373",
+        "phone": "+49 (01805) 040404",
+        "website": "http://www.bayer04.de",
+        "email": "stefan.kusche.sk@bayer04.de",
+        "founded": 1904,
+        "clubColors": "Red / White / Black",
+        "venue": "BayArena",
+        "lastUpdated": "2019-08-29T02:32:23Z",
+        "squad": [
+          {
+            "id": 153,
+            "name": "Ramazan Özcan",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1984-06-28T00:00:00Z",
+            "countryOfBirth": "Austria",
+            "nationality": "Austria",
+            "shirtNumber": 28,
+            "role": "PLAYER"
+          },
+          {
+            "id": 165,
+            "name": "Niklas Lomb",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1993-07-28T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 6696,
+            "name": "Lukáš Hrádecký",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-11-24T00:00:00Z",
+            "countryOfBirth": "Slovakia",
+            "nationality": "Finland",
+            "shirtNumber": 1,
+            "role": "PLAYER"
+          },
+          {
+            "id": 149,
+            "name": "Jonathan Tah",
+            "position": "Defender",
+            "dateOfBirth": "1996-02-11T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 4,
+            "role": "PLAYER"
+          },
+          {
+            "id": 6475,
+            "name": "Wendell",
+            "position": "Defender",
+            "dateOfBirth": "1993-07-20T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": 18,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8068,
+            "name": "Aleksandar Dragović",
+            "position": "Defender",
+            "dateOfBirth": "1991-03-06T00:00:00Z",
+            "countryOfBirth": "Austria",
+            "nationality": "Austria",
+            "shirtNumber": 6,
+            "role": "PLAYER"
+          },
+          {
+            "id": 147,
+            "name": "Sven Bender",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-04-27T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 5,
+            "role": "PLAYER"
+          },
+          {
+            "id": 151,
+            "name": "Charles Aránguiz",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-04-17T00:00:00Z",
+            "countryOfBirth": "Chile",
+            "nationality": "Chile",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 155,
+            "name": "Panagiotis Retsos",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-08-09T00:00:00Z",
+            "countryOfBirth": "Greece",
+            "nationality": "Greece",
+            "shirtNumber": 3,
+            "role": "PLAYER"
+          },
+          {
+            "id": 167,
+            "name": "Karim Bellarabi",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-04-08T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 38,
+            "role": "PLAYER"
+          },
+          {
+            "id": 169,
+            "name": "Julian Baumgartlinger",
+            "position": "Midfielder",
+            "dateOfBirth": "1988-01-02T00:00:00Z",
+            "countryOfBirth": "Austria",
+            "nationality": "Austria",
+            "shirtNumber": 15,
+            "role": "PLAYER"
+          },
+          {
+            "id": 171,
+            "name": "Kai Havertz",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-06-11T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 29,
+            "role": "PLAYER"
+          },
+          {
+            "id": 313,
+            "name": "Kerem Demirbay",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-07-03T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 10,
+            "role": "PLAYER"
+          },
+          {
+            "id": 320,
+            "name": "Nadiem Amiri",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-10-27T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 11,
+            "role": "PLAYER"
+          },
+          {
+            "id": 6476,
+            "name": "Lars Bender",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-04-27T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 8,
+            "role": "PLAYER"
+          },
+          {
+            "id": 6555,
+            "name": "Mitchell Weiser",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-04-21T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 23,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7558,
+            "name": "Daley Sinkgraven",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-07-04T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": 22,
+            "role": "PLAYER"
+          },
+          {
+            "id": 101082,
+            "name": "Adrian Stanilewicz",
+            "position": "Midfielder",
+            "dateOfBirth": "2000-02-22T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 150,
+            "name": "Kevin Volland",
+            "position": "Attacker",
+            "dateOfBirth": "1992-07-30T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 31,
+            "role": "PLAYER"
+          },
+          {
+            "id": 154,
+            "name": "Lucas Alario",
+            "position": "Attacker",
+            "dateOfBirth": "1992-10-08T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": 13,
+            "role": "PLAYER"
+          },
+          {
+            "id": 157,
+            "name": "Leon Bailey",
+            "position": "Attacker",
+            "dateOfBirth": "1997-08-09T00:00:00Z",
+            "countryOfBirth": "Jamaica",
+            "nationality": "Jamaica",
+            "shirtNumber": 9,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1490,
+            "name": "Paulinho",
+            "position": "Attacker",
+            "dateOfBirth": "2000-07-15T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": 7,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2240,
+            "name": "Moussa Diaby",
+            "position": "Attacker",
+            "dateOfBirth": "1999-07-07T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 19,
+            "role": "PLAYER"
+          },
+          {
+            "id": 6479,
+            "name": "Joel Pohjanpalo",
+            "position": "Attacker",
+            "dateOfBirth": "1994-09-13T00:00:00Z",
+            "countryOfBirth": "Finland",
+            "nationality": "Finland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 56834,
+            "name": "Dennis-Mukuna Mbay",
+            "position": "Attacker",
+            "dateOfBirth": "1999-03-24T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 10233,
+            "name": "Dieter Herzog",
+            "position": null,
+            "dateOfBirth": "1946-07-15T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "SCOUT"
+          },
+          {
+            "id": 10234,
+            "name": "Markus Krösche",
+            "position": null,
+            "dateOfBirth": "1980-09-17T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "ASSISTANT_COACH"
+          },
+          {
+            "id": 10235,
+            "name": "Daniel Niedzkowski",
+            "position": null,
+            "dateOfBirth": "1976-12-14T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "ASSISTANT_COACH"
+          },
+          {
+            "id": 43925,
+            "name": "Peter Bosz",
+            "position": null,
+            "dateOfBirth": "1963-11-21T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": null,
+            "role": "COACH"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "area": {
+          "id": 2088,
+          "name": "Germany"
+        },
+        "name": "BV Borussia 09 Dortmund",
+        "shortName": "Dortmund",
+        "tla": "BVB",
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg",
+        "address": "Rheinlanddamm 207-209 Dortmund 44137",
+        "phone": "+49 (231) 90200",
+        "website": "http://www.bvb.de",
+        "email": "info@bvb.de",
+        "founded": 1909,
+        "clubColors": "Black / Yellow",
+        "venue": "Signal Iduna Park",
+        "lastUpdated": "2019-08-29T02:32:24Z",
+        "squad": [
+          {
+            "id": 141,
+            "name": "Roman Bürki",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1990-11-14T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "shirtNumber": 1,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3471,
+            "name": "Marwin Hitz",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1987-09-18T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "shirtNumber": 35,
+            "role": "PLAYER"
+          },
+          {
+            "id": 9439,
+            "name": "Eric Oelschlägel",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1995-09-20T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 40,
+            "role": "PLAYER"
+          },
+          {
+            "id": 111021,
+            "name": "Luca Unbehaun",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2001-01-27T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 53,
+            "name": "Achraf Hakimi",
+            "position": "Defender",
+            "dateOfBirth": "1998-11-04T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Morocco",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 136,
+            "name": "Łukasz Piszczek",
+            "position": "Defender",
+            "dateOfBirth": "1985-06-03T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "shirtNumber": 26,
+            "role": "PLAYER"
+          },
+          {
+            "id": 143,
+            "name": "Manuel Akanji",
+            "position": "Defender",
+            "dateOfBirth": "1995-07-19T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "shirtNumber": 16,
+            "role": "PLAYER"
+          },
+          {
+            "id": 350,
+            "name": "Mats Hummels",
+            "position": "Defender",
+            "dateOfBirth": "1988-12-16T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 15,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3246,
+            "name": "Raphaël Guerreiro",
+            "position": "Defender",
+            "dateOfBirth": "1993-12-22T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Portugal",
+            "shirtNumber": 13,
+            "role": "PLAYER"
+          },
+          {
+            "id": 6481,
+            "name": "Marcel Schmelzer",
+            "position": "Defender",
+            "dateOfBirth": "1988-01-22T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 29,
+            "role": "PLAYER"
+          },
+          {
+            "id": 6483,
+            "name": "Dan-Axel Zagadou",
+            "position": "Defender",
+            "dateOfBirth": "1999-06-03T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 2,
+            "role": "PLAYER"
+          },
+          {
+            "id": 82020,
+            "name": "Leonardo Balerdi",
+            "position": "Defender",
+            "dateOfBirth": "1999-01-26T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": 29,
+            "role": "PLAYER"
+          },
+          {
+            "id": 120984,
+            "name": "Mateu Morey",
+            "position": "Defender",
+            "dateOfBirth": "2000-03-02T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 138,
+            "name": "Marco Reus",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-05-31T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 11,
+            "role": "PLAYER"
+          },
+          {
+            "id": 140,
+            "name": "Mario Götze",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-06-03T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 10,
+            "role": "PLAYER"
+          },
+          {
+            "id": 144,
+            "name": "Julian Weigl",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-09-08T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 33,
+            "role": "PLAYER"
+          },
+          {
+            "id": 146,
+            "name": "Jadon Sancho",
+            "position": "Midfielder",
+            "dateOfBirth": "2000-03-25T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": 7,
+            "role": "PLAYER"
+          },
+          {
+            "id": 158,
+            "name": "Mahmoud Dahoud",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-01-01T00:00:00Z",
+            "countryOfBirth": "Syria",
+            "nationality": "Germany",
+            "shirtNumber": 8,
+            "role": "PLAYER"
+          },
+          {
+            "id": 312,
+            "name": "Nico Schulz",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-04-01T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 14,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3460,
+            "name": "Thomas Delaney",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-09-03T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "shirtNumber": 6,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3655,
+            "name": "Thorgan Hazard",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-03-29T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "shirtNumber": 23,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3656,
+            "name": "Axel Witsel",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-01-12T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "shirtNumber": 28,
+            "role": "PLAYER"
+          },
+          {
+            "id": 6714,
+            "name": "Marius Wolf",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-05-27T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 27,
+            "role": "PLAYER"
+          },
+          {
+            "id": 9405,
+            "name": "Jacob Bruun Larsen",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-09-19T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "shirtNumber": 34,
+            "role": "PLAYER"
+          },
+          {
+            "id": 120962,
+            "name": "Patrick Osterhage",
+            "position": "Midfielder",
+            "dateOfBirth": "2000-02-01T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 120963,
+            "name": "Tobias Raschl",
+            "position": "Midfielder",
+            "dateOfBirth": "2000-02-21T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 37,
+            "role": "PLAYER"
+          },
+          {
+            "id": 148,
+            "name": "Julian Brandt",
+            "position": "Attacker",
+            "dateOfBirth": "1996-05-02T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 19,
+            "role": "PLAYER"
+          },
+          {
+            "id": 15871,
+            "name": "Paco Alcácer",
+            "position": "Attacker",
+            "dateOfBirth": "1993-08-30T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 9,
+            "role": "PLAYER"
+          },
+          {
+            "id": 15923,
+            "name": "Lucien Favre",
+            "position": null,
+            "dateOfBirth": "1957-11-02T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "shirtNumber": null,
+            "role": "COACH"
+          },
+          {
+            "id": 111241,
+            "name": "Edin Terzić",
+            "position": null,
+            "dateOfBirth": "1982-10-30T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Croatia",
+            "shirtNumber": null,
+            "role": "ASSISTANT_COACH"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "area": {
+          "id": 2088,
+          "name": "Germany"
+        },
+        "name": "FC Bayern München",
+        "shortName": "Bayern M",
+        "tla": "FCB",
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg",
+        "address": "Säbenerstr. 51 München 81547",
+        "phone": "+49 (089) 699310",
+        "website": "http://www.fcbayern.de",
+        "email": "service-team@fcb.de",
+        "founded": 1900,
+        "clubColors": "Red / White / Blue",
+        "venue": "Allianz Arena",
+        "lastUpdated": "2019-08-29T02:32:25Z",
+        "squad": [
+          {
+            "id": 341,
+            "name": "Manuel Neuer",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1986-03-27T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 1,
+            "role": "PLAYER"
+          },
+          {
+            "id": 342,
+            "name": "Sven Ulreich",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1988-08-03T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 26,
+            "role": "PLAYER"
+          },
+          {
+            "id": 344,
+            "name": "Christian Früchtl",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2000-01-28T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 36,
+            "role": "PLAYER"
+          },
+          {
+            "id": 346,
+            "name": "Ron-Thorben Hoffmann",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1999-04-04T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 1,
+            "role": "PLAYER"
+          },
+          {
+            "id": 347,
+            "name": "Jérôme Boateng",
+            "position": "Defender",
+            "dateOfBirth": "1988-09-03T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 17,
+            "role": "PLAYER"
+          },
+          {
+            "id": 349,
+            "name": "David Alaba",
+            "position": "Defender",
+            "dateOfBirth": "1992-06-24T00:00:00Z",
+            "countryOfBirth": "Austria",
+            "nationality": "Austria",
+            "shirtNumber": 27,
+            "role": "PLAYER"
+          },
+          {
+            "id": 351,
+            "name": "Niklas Süle",
+            "position": "Defender",
+            "dateOfBirth": "1995-09-03T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 4,
+            "role": "PLAYER"
+          },
+          {
+            "id": 352,
+            "name": "Lukas Mai",
+            "position": "Defender",
+            "dateOfBirth": "2000-03-31T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 15,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3364,
+            "name": "Benjamin Pavard",
+            "position": "Defender",
+            "dateOfBirth": "1996-03-28T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 5,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3365,
+            "name": "Lucas Hernández",
+            "position": "Defender",
+            "dateOfBirth": "1996-02-14T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 21,
+            "role": "PLAYER"
+          },
+          {
+            "id": 311,
+            "name": "Serge Gnabry",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-07-14T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 22,
+            "role": "PLAYER"
+          },
+          {
+            "id": 355,
+            "name": "Javi Martínez",
+            "position": "Midfielder",
+            "dateOfBirth": "1988-09-02T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 8,
+            "role": "PLAYER"
+          },
+          {
+            "id": 356,
+            "name": "Thiago Alcântara",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-04-11T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Spain",
+            "shirtNumber": 6,
+            "role": "PLAYER"
+          },
+          {
+            "id": 359,
+            "name": "Joshua Kimmich",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-02-08T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 32,
+            "role": "PLAYER"
+          },
+          {
+            "id": 360,
+            "name": "Kingsley Coman",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-06-13T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 29,
+            "role": "PLAYER"
+          },
+          {
+            "id": 366,
+            "name": "Corentin Tolisso",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-08-03T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 24,
+            "role": "PLAYER"
+          },
+          {
+            "id": 368,
+            "name": "Timothy Tillman",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-01-04T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2004,
+            "name": "Ivan Perišić",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-02-02T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "shirtNumber": 14,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3181,
+            "name": "Leon Goretzka",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-02-06T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 18,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3228,
+            "name": "Philippe Coutinho",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-06-12T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 4684,
+            "name": "Sarpreet Singh",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-02-20T00:00:00Z",
+            "countryOfBirth": "New Zealand",
+            "nationality": "New Zealand",
+            "shirtNumber": 31,
+            "role": "PLAYER"
+          },
+          {
+            "id": 6688,
+            "name": "Mickaël Cuisance",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-08-16T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 11,
+            "role": "PLAYER"
+          },
+          {
+            "id": 72435,
+            "name": "Paul Will",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-03-01T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 6,
+            "role": "PLAYER"
+          },
+          {
+            "id": 98784,
+            "name": "Ryan Johansson",
+            "position": "Midfielder",
+            "dateOfBirth": "2001-02-15T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Luxembourg",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 370,
+            "name": "Thomas Müller",
+            "position": "Attacker",
+            "dateOfBirth": "1989-09-13T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 25,
+            "role": "PLAYER"
+          },
+          {
+            "id": 371,
+            "name": "Robert Lewandowski",
+            "position": "Attacker",
+            "dateOfBirth": "1988-08-21T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "shirtNumber": 9,
+            "role": "PLAYER"
+          },
+          {
+            "id": 373,
+            "name": "Kwasi Okyere Wriedt",
+            "position": "Attacker",
+            "dateOfBirth": "1994-07-10T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Ghana",
+            "shirtNumber": 10,
+            "role": "PLAYER"
+          },
+          {
+            "id": 6543,
+            "name": "Jann-Fiete Arp",
+            "position": "Attacker",
+            "dateOfBirth": "2000-01-06T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 9,
+            "role": "PLAYER"
+          },
+          {
+            "id": 21288,
+            "name": "Alphonso Davies",
+            "position": "Attacker",
+            "dateOfBirth": "2000-11-02T00:00:00Z",
+            "countryOfBirth": "Ghana",
+            "nationality": "Canada",
+            "shirtNumber": 16,
+            "role": "PLAYER"
+          },
+          {
+            "id": 31621,
+            "name": "Alex Timossi Andersson",
+            "position": "Attacker",
+            "dateOfBirth": "2001-01-19T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8823,
+            "name": "Niko Kovać",
+            "position": null,
+            "dateOfBirth": "1971-10-15T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Croatia",
+            "shirtNumber": null,
+            "role": "COACH"
+          },
+          {
+            "id": 10238,
+            "name": "Peter Hermann",
+            "position": null,
+            "dateOfBirth": "1952-03-22T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "ASSISTANT_COACH"
+          },
+          {
+            "id": 10245,
+            "name": "Robert Kovač",
+            "position": null,
+            "dateOfBirth": "1974-04-06T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Croatia",
+            "shirtNumber": null,
+            "role": "ASSISTANT_COACH"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2015,
+    "area": {
+      "id": 2081,
+      "name": "France"
+    },
+    "name": "Ligue 1",
+    "code": "FL1",
+    "emblemUrl": null,
+    "plan": "TIER_ONE",
+    "currentSeason": {
+      "id": 499,
+      "startDate": "2019-08-09",
+      "endDate": "2020-05-31",
+      "currentMatchday": 4,
+      "winner": null
+    },
+    "numberOfAvailableSeasons": 9,
+    "lastUpdated": "2019-09-02T23:55:03Z",
+    "teams": [
+      {
+        "id": 523,
+        "area": {
+          "id": 2081,
+          "name": "France"
+        },
+        "name": "Olympique Lyonnais",
+        "shortName": "Olympique Lyon",
+        "tla": "LYO",
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/de/f/f1/Olympique_Lyon.svg",
+        "address": "350 avenue Jean Jaurès Lyon 69007",
+        "phone": "+33 (0426) 296532",
+        "website": "http://www.olweb.fr",
+        "email": "olympique-lyonnais@lrafoot.org",
+        "founded": 1896,
+        "clubColors": "White / Red / Blue",
+        "venue": "Groupama Stadium",
+        "lastUpdated": "2019-08-31T12:18:50Z",
+        "squad": [
+          {
+            "id": 3240,
+            "name": "Anthony Lopes",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1990-10-01T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Portugal",
+            "shirtNumber": 1,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8452,
+            "name": "Anthony Racioppi",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1998-12-31T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8688,
+            "name": "Ciprian Tătăruşanu",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1986-02-09T00:00:00Z",
+            "countryOfBirth": "Romania",
+            "nationality": "Romania",
+            "shirtNumber": 30,
+            "role": "PLAYER"
+          },
+          {
+            "id": 811,
+            "name": "Youssouf Koné",
+            "position": "Defender",
+            "dateOfBirth": "1995-07-05T00:00:00Z",
+            "countryOfBirth": "Mali",
+            "nationality": "Mali",
+            "shirtNumber": 28,
+            "role": "PLAYER"
+          },
+          {
+            "id": 2253,
+            "name": "Joachim Andersen",
+            "position": "Defender",
+            "dateOfBirth": "1996-05-31T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "shirtNumber": 3,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8454,
+            "name": "Rafael",
+            "position": "Defender",
+            "dateOfBirth": "1990-07-09T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": 4,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8455,
+            "name": "Mapou Yanga-Mbiwa",
+            "position": "Defender",
+            "dateOfBirth": "1989-05-15T00:00:00Z",
+            "countryOfBirth": "Central African Republic",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8457,
+            "name": "Marçal",
+            "position": "Defender",
+            "dateOfBirth": "1989-02-19T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8460,
+            "name": "Kenny Tete",
+            "position": "Defender",
+            "dateOfBirth": "1995-10-09T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": 23,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8461,
+            "name": "Marcelo",
+            "position": "Defender",
+            "dateOfBirth": "1987-05-20T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": 6,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8462,
+            "name": "Oumar Solet",
+            "position": "Defender",
+            "dateOfBirth": "2000-02-07T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8690,
+            "name": "Léo Dubois",
+            "position": "Defender",
+            "dateOfBirth": "1994-09-14T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 14,
+            "role": "PLAYER"
+          },
+          {
+            "id": 30542,
+            "name": "Jason Denayer",
+            "position": "Defender",
+            "dateOfBirth": "1995-06-28T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "shirtNumber": 5,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1547,
+            "name": "Jean Lucas",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-06-22T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": 22,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8402,
+            "name": "Thiago Mendes",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-03-15T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": 12,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8465,
+            "name": "Lucas Tousart",
+            "position": "Midfielder",
+            "dateOfBirth": "1997-04-29T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 29,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8466,
+            "name": "Houssem Aouar",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-06-30T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 8,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8467,
+            "name": "Bertrand Traoré",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-09-06T00:00:00Z",
+            "countryOfBirth": "Burkina Faso",
+            "nationality": "Burkina Faso",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8651,
+            "name": "Jeff Reine-Adelaïde",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-01-17T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 17,
+            "role": "PLAYER"
+          },
+          {
+            "id": 101350,
+            "name": "Maxence Caqueret",
+            "position": "Midfielder",
+            "dateOfBirth": "2000-02-15T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 25,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8471,
+            "name": "Maxwel Cornet",
+            "position": "Attacker",
+            "dateOfBirth": "1996-09-27T00:00:00Z",
+            "countryOfBirth": "Côte d’Ivoire",
+            "nationality": "Côte d’Ivoire",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8472,
+            "name": "Memphis Depay",
+            "position": "Attacker",
+            "dateOfBirth": "1994-02-13T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": 11,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8476,
+            "name": "Amine Gouiri",
+            "position": "Attacker",
+            "dateOfBirth": "2000-02-16T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8797,
+            "name": "Martin Terrier",
+            "position": "Attacker",
+            "dateOfBirth": "1997-03-04T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 7,
+            "role": "PLAYER"
+          },
+          {
+            "id": 15618,
+            "name": "Moussa Dembélé",
+            "position": "Attacker",
+            "dateOfBirth": "1996-07-12T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 9,
+            "role": "PLAYER"
+          },
+          {
+            "id": 45100,
+            "name": "Grégory Coupet",
+            "position": null,
+            "dateOfBirth": "1972-12-31T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "GOALKEEPER_COACH"
+          },
+          {
+            "id": 45102,
+            "name": "Gérald Baticle",
+            "position": null,
+            "dateOfBirth": "1969-09-10T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "ASSISTANT_COACH"
+          },
+          {
+            "id": 120991,
+            "name": "Sylvinho",
+            "position": null,
+            "dateOfBirth": "1974-04-12T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "COACH"
+          }
+        ]
+      },
+      {
+        "id": 524,
+        "area": {
+          "id": 2081,
+          "name": "France"
+        },
+        "name": "Paris Saint-Germain FC",
+        "shortName": "PSG",
+        "tla": "PSG",
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg",
+        "address": "24, rue de Commandant Guibaud Paris 7501",
+        "phone": "+33 (0139) 733467",
+        "website": "http://www.psg.fr",
+        "email": "communaute@psg.fr",
+        "founded": 1904,
+        "clubColors": "Red / Blue / White",
+        "venue": "Parc des Princes",
+        "lastUpdated": "2019-09-02T12:07:27Z",
+        "squad": [
+          {
+            "id": 3357,
+            "name": "Alphonse Aréola",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1993-02-27T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 16,
+            "role": "PLAYER"
+          },
+          {
+            "id": 77344,
+            "name": "Marcin Bułka",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1999-10-04T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "shirtNumber": 30,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3224,
+            "name": "Thiago Silva",
+            "position": "Defender",
+            "dateOfBirth": "1984-09-22T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3225,
+            "name": "Marquinhos",
+            "position": "Defender",
+            "dateOfBirth": "1994-05-14T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3363,
+            "name": "Presnel Kimpembe",
+            "position": "Defender",
+            "dateOfBirth": "1995-08-13T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 3,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3650,
+            "name": "Thomas Meunier",
+            "position": "Defender",
+            "dateOfBirth": "1991-09-12T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "shirtNumber": 12,
+            "role": "PLAYER"
+          },
+          {
+            "id": 6493,
+            "name": "Thilo Kehrer",
+            "position": "Defender",
+            "dateOfBirth": "1996-09-21T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 4,
+            "role": "PLAYER"
+          },
+          {
+            "id": 6625,
+            "name": "Abdou Diallo",
+            "position": "Defender",
+            "dateOfBirth": "1996-05-04T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 22,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8478,
+            "name": "Layvin Kurzawa",
+            "position": "Defender",
+            "dateOfBirth": "1992-09-04T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 20,
+            "role": "PLAYER"
+          },
+          {
+            "id": 76722,
+            "name": "Colin Dagba",
+            "position": "Defender",
+            "dateOfBirth": "1998-09-09T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 31,
+            "role": "PLAYER"
+          },
+          {
+            "id": 117957,
+            "name": "Loïc Mbe Soh",
+            "position": "Defender",
+            "dateOfBirth": "2001-06-13T00:00:00Z",
+            "countryOfBirth": "Cameroon",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 127127,
+            "name": "Nianzou Tanguy Kouassi",
+            "position": "Defender",
+            "dateOfBirth": "2002-06-07T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 35,
+            "role": "PLAYER"
+          },
+          {
+            "id": 74,
+            "name": "Pablo Sarabia",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-05-11T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 19,
+            "role": "PLAYER"
+          },
+          {
+            "id": 357,
+            "name": "Juan Bernat",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-03-01T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 14,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3179,
+            "name": "Julian Draxler",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-09-20T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 23,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3210,
+            "name": "Ángel di María",
+            "position": "Midfielder",
+            "dateOfBirth": "1988-02-14T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3214,
+            "name": "Leandro Paredes",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-06-29T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3627,
+            "name": "Idrissa Gana Guèye",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-09-26T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "shirtNumber": 27,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7904,
+            "name": "Ander Herrera",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-08-14T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8482,
+            "name": "Marco Verratti",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-11-05T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": 6,
+            "role": "PLAYER"
+          },
+          {
+            "id": 128453,
+            "name": "Adil Aouchiche",
+            "position": "Midfielder",
+            "dateOfBirth": "2002-07-15T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 33,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3170,
+            "name": "Edinson Cavani",
+            "position": "Attacker",
+            "dateOfBirth": "1987-02-14T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3374,
+            "name": "Kylian Mbappé",
+            "position": "Attacker",
+            "dateOfBirth": "1998-12-20T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 7,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7963,
+            "name": "Maxim Choupo-Moting",
+            "position": "Attacker",
+            "dateOfBirth": "1989-03-23T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Cameroon",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7964,
+            "name": "Jesé Rodríguez",
+            "position": "Attacker",
+            "dateOfBirth": "1993-02-26T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 29,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8491,
+            "name": "Neymar",
+            "position": "Attacker",
+            "dateOfBirth": "1992-02-05T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 72766,
+            "name": "Thomas Tuchel",
+            "position": null,
+            "dateOfBirth": "1973-08-29T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "COACH"
+          }
+        ]
+      },
+      {
+        "id": 548,
+        "area": {
+          "id": 2152,
+          "name": "Monaco"
+        },
+        "name": "AS Monaco FC",
+        "shortName": "Monaco",
+        "tla": "ASM",
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/en/b/ba/AS_Monaco_FC.svg",
+        "address": "Avenue des Castellans Monaco 98000",
+        "phone": "+33 (377) 92057473",
+        "website": "http://www.asmonaco.com",
+        "email": null,
+        "founded": 1919,
+        "clubColors": "Red / White",
+        "venue": "Stade Louis II.",
+        "lastUpdated": "2019-09-02T12:19:10Z",
+        "squad": [
+          {
+            "id": 3546,
+            "name": "Danijel Subašić",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1984-10-27T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8366,
+            "name": "Benjamin Lecomte",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1991-04-26T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 40,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8746,
+            "name": "Seydou Sy",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1995-12-12T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8748,
+            "name": "Diego Benaglio",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1983-09-08T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "shirtNumber": 16,
+            "role": "PLAYER"
+          },
+          {
+            "id": 156,
+            "name": "Benjamin Henrichs",
+            "position": "Defender",
+            "dateOfBirth": "1997-02-23T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 39,
+            "role": "PLAYER"
+          },
+          {
+            "id": 280,
+            "name": "Guillermo Maripán",
+            "position": "Defender",
+            "dateOfBirth": "1994-05-06T00:00:00Z",
+            "countryOfBirth": "Chile",
+            "nationality": "Chile",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1024,
+            "name": "Pierre-Daniel N'Guinda",
+            "position": "Defender",
+            "dateOfBirth": "1996-06-18T00:00:00Z",
+            "countryOfBirth": "Cameroon",
+            "nationality": "France",
+            "shirtNumber": 33,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3529,
+            "name": "Kamil Glik",
+            "position": "Defender",
+            "dateOfBirth": "1988-02-03T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "shirtNumber": 25,
+            "role": "PLAYER"
+          },
+          {
+            "id": 6494,
+            "name": "Naldo",
+            "position": "Defender",
+            "dateOfBirth": "1982-09-10T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": 27,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8372,
+            "name": "Ruben Aguilar",
+            "position": "Defender",
+            "dateOfBirth": "1993-04-26T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 12,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8403,
+            "name": "Fodé Ballo-Touré",
+            "position": "Defender",
+            "dateOfBirth": "1997-01-03T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 2,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8753,
+            "name": "Jemerson",
+            "position": "Defender",
+            "dateOfBirth": "1992-08-24T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": 5,
+            "role": "PLAYER"
+          },
+          {
+            "id": 98568,
+            "name": "Benoît Mukinayi",
+            "position": "Defender",
+            "dateOfBirth": "2001-03-26T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 32,
+            "role": "PLAYER"
+          },
+          {
+            "id": 117956,
+            "name": "Arthur Zagre",
+            "position": "Defender",
+            "dateOfBirth": "2001-10-04T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 18,
+            "role": "PLAYER"
+          },
+          {
+            "id": 1785,
+            "name": "Gil Dias",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-09-28T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "shirtNumber": 31,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3252,
+            "name": "Adrien Silva",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-03-15T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Portugal",
+            "shirtNumber": 8,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3256,
+            "name": "Gelson Martins",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-05-11T00:00:00Z",
+            "countryOfBirth": "Cape Verde Islands",
+            "nationality": "Portugal",
+            "shirtNumber": 11,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3683,
+            "name": "Aleksandr Golovin",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-05-30T00:00:00Z",
+            "countryOfBirth": "Russia",
+            "nationality": "Russia",
+            "shirtNumber": 17,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7811,
+            "name": "Fàbregas",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-05-04T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 4,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8757,
+            "name": "Gabriel Boschilia",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-03-05T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": 26,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8759,
+            "name": "Adama Traoré",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-06-28T00:00:00Z",
+            "countryOfBirth": "Mali",
+            "nationality": "Mali",
+            "shirtNumber": 21,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8760,
+            "name": "Moussa Sylla",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-11-25T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 34,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8762,
+            "name": "Romain Faivre",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-07-14T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 76723,
+            "name": "Sofiane Diop",
+            "position": "Midfielder",
+            "dateOfBirth": "2000-06-09T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 73,
+            "name": "Wissam Ben Yedder",
+            "position": "Attacker",
+            "dateOfBirth": "1990-08-12T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 22,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3637,
+            "name": "Keïta Baldé",
+            "position": "Attacker",
+            "dateOfBirth": "1995-03-08T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Senegal",
+            "shirtNumber": 14,
+            "role": "PLAYER"
+          },
+          {
+            "id": 3739,
+            "name": "Radamel Falcao",
+            "position": "Attacker",
+            "dateOfBirth": "1986-02-10T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 7940,
+            "name": "Islam Slimani",
+            "position": "Attacker",
+            "dateOfBirth": "1988-06-18T00:00:00Z",
+            "countryOfBirth": "Algeria",
+            "nationality": "Algeria",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8475,
+            "name": "Willem Geubbels",
+            "position": "Attacker",
+            "dateOfBirth": "2001-08-16T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8767,
+            "name": "Stevan Jovetić",
+            "position": "Attacker",
+            "dateOfBirth": "1989-11-02T00:00:00Z",
+            "countryOfBirth": "Montenegro",
+            "nationality": "Montenegro",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8768,
+            "name": "Pietro Pellegri",
+            "position": "Attacker",
+            "dateOfBirth": "2001-03-17T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": 19,
+            "role": "PLAYER"
+          },
+          {
+            "id": 8861,
+            "name": "Henry Onyekuru",
+            "position": "Attacker",
+            "dateOfBirth": "1997-06-05T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "shirtNumber": null,
+            "role": "PLAYER"
+          },
+          {
+            "id": 15925,
+            "name": "Leonardo Jardim",
+            "position": null,
+            "dateOfBirth": "1974-08-01T00:00:00Z",
+            "countryOfBirth": "Venezuela",
+            "nationality": "Portugal",
+            "shirtNumber": null,
+            "role": "COACH"
+          }
+        ]
+      }
+    ]
+  }
+]
