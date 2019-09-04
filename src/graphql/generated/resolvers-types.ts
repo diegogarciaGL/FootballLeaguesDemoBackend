@@ -67,12 +67,14 @@ export type PlayerInput = {
 
 export type Query = {
   leagues: Array<League>;
-  leage?: Maybe<League>;
+  league?: Maybe<League>;
   team?: Maybe<Team>;
+  teams?: Maybe<Array<Maybe<Team>>>;
   player?: Maybe<Player>;
+  players?: Maybe<Array<Maybe<Player>>>;
 };
 
-export type QueryLeageArgs = {
+export type QueryLeagueArgs = {
   leagueId: Scalars["String"];
 };
 
@@ -80,8 +82,16 @@ export type QueryTeamArgs = {
   teamId: Scalars["String"];
 };
 
+export type QueryTeamsArgs = {
+  leagueId: Scalars["String"];
+};
+
 export type QueryPlayerArgs = {
   playerId: Scalars["String"];
+};
+
+export type QueryPlayersArgs = {
+  teamId: Scalars["String"];
 };
 
 export type Team = {
@@ -260,11 +270,11 @@ export type QueryResolvers<
   ParentType = ResolversTypes["Query"]
 > = {
   leagues?: Resolver<Array<ResolversTypes["League"]>, ParentType, ContextType>;
-  leage?: Resolver<
+  league?: Resolver<
     Maybe<ResolversTypes["League"]>,
     ParentType,
     ContextType,
-    QueryLeageArgs
+    QueryLeagueArgs
   >;
   team?: Resolver<
     Maybe<ResolversTypes["Team"]>,
@@ -272,11 +282,23 @@ export type QueryResolvers<
     ContextType,
     QueryTeamArgs
   >;
+  teams?: Resolver<
+    Maybe<Array<Maybe<ResolversTypes["Team"]>>>,
+    ParentType,
+    ContextType,
+    QueryTeamsArgs
+  >;
   player?: Resolver<
     Maybe<ResolversTypes["Player"]>,
     ParentType,
     ContextType,
     QueryPlayerArgs
+  >;
+  players?: Resolver<
+    Maybe<Array<Maybe<ResolversTypes["Player"]>>>,
+    ParentType,
+    ContextType,
+    QueryPlayersArgs
   >;
 };
 

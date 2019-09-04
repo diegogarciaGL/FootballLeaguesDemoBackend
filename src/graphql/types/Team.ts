@@ -13,6 +13,7 @@ export default `
   }
   type Query {
     team(teamId: String!): Team
+    teams(leagueId: String!): [Team]
   }
   type Mutation {
     newTeam(input: TeamInput!): Team!

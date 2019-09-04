@@ -18,11 +18,17 @@ const getPlayers = async (teamId: string): Promise<Player[]> => {
   return (await PlayerModel.find({ teamId })).map(parsePlayer);
 }
 
+const getPlayer = async (playerId: string): Promise<Player | null> => {
+  const player = await PlayerModel.findById(playerId);
+  return player ? parsePlayer(player) : null;
+}
+
 const newPlayer = async (input: PlayerInput): Promise<Player> => {
   return parsePlayer(await PlayerModel.create(input));
 }
 
 export {
   getPlayers,
+  getPlayer,
   newPlayer
 };
