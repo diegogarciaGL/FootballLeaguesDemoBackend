@@ -70,7 +70,7 @@ export type Player = {
   position?: Maybe<Scalars["String"]>;
   nationality?: Maybe<Scalars["String"]>;
   teamId: Scalars["String"];
-  team?: Maybe<Team>;
+  team: Team;
 };
 
 export type PlayerInput = {
@@ -89,7 +89,7 @@ export type Query = {
   team?: Maybe<Team>;
   teams?: Maybe<Array<Maybe<Team>>>;
   player?: Maybe<Player>;
-  players?: Maybe<Array<Maybe<Player>>>;
+  players?: Maybe<Array<Player>>;
 };
 
 export type QueryLeagueArgs = {
@@ -116,8 +116,8 @@ export type Team = {
   _id: Scalars["String"];
   name: Scalars["String"];
   leagueId: Scalars["String"];
-  league?: Maybe<League>;
-  players?: Maybe<Array<Maybe<Player>>>;
+  league: League;
+  players?: Maybe<Array<Player>>;
 };
 
 export type TeamInput = {
@@ -297,7 +297,7 @@ export type PlayerResolvers<
     ContextType
   >;
   teamId?: Resolver<ResolversTypes["String"], ParentType, ContextType>;
-  team?: Resolver<Maybe<ResolversTypes["Team"]>, ParentType, ContextType>;
+  team?: Resolver<ResolversTypes["Team"], ParentType, ContextType>;
 };
 
 export type QueryResolvers<
@@ -335,7 +335,7 @@ export type QueryResolvers<
     QueryPlayerArgs
   >;
   players?: Resolver<
-    Maybe<Array<Maybe<ResolversTypes["Player"]>>>,
+    Maybe<Array<ResolversTypes["Player"]>>,
     ParentType,
     ContextType,
     QueryPlayersArgs
@@ -349,9 +349,9 @@ export type TeamResolvers<
   _id?: Resolver<ResolversTypes["String"], ParentType, ContextType>;
   name?: Resolver<ResolversTypes["String"], ParentType, ContextType>;
   leagueId?: Resolver<ResolversTypes["String"], ParentType, ContextType>;
-  league?: Resolver<Maybe<ResolversTypes["League"]>, ParentType, ContextType>;
+  league?: Resolver<ResolversTypes["League"], ParentType, ContextType>;
   players?: Resolver<
-    Maybe<Array<Maybe<ResolversTypes["Player"]>>>,
+    Maybe<Array<ResolversTypes["Player"]>>,
     ParentType,
     ContextType
   >;

@@ -6,7 +6,7 @@ export default `
     position: String
     nationality: String
     teamId: String!
-    team: Team
+    team: Team!
   }
   input PlayerInput {
     _id: String
@@ -18,7 +18,7 @@ export default `
   }
   type Query {
     player(playerId: String!): Player
-    players(teamId: String!): [Player]
+    players(teamId: String!): [Player!]
   }
   type Mutation {
     newPlayer(input: PlayerInput!): Player!
