@@ -12,7 +12,7 @@
     "start-local": "nodemon --exec babel-node --extensions '.ts' ./src/index.ts",
     "start": "node ./www/index.js",
     "check-types": "tsc",
-    "generate-gql-types": "graphql-codegen --debug --config graphqlcodegen.yml",
+    "generate-gql-types": "NODE_TLS_REJECT_UNAUTHORIZED=0 graphql-codegen --debug --config graphqlcodegen.yml",
     "update-apollo-service": "apollo service:push",
     "update-grapqhl-scheme-remote": "yarn generate-gql-types && yarn update-apollo-service",
     "lint": "eslint --ignore-path .gitignore ."
