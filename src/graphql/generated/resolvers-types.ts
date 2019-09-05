@@ -17,6 +17,7 @@ export enum CacheControlScope {
 
 export type Language = {
   _id: Scalars["String"];
+  languageId: Scalars["String"];
   name: Scalars["String"];
   isActive: Scalars["Boolean"];
 };
@@ -235,6 +236,7 @@ export type LanguageResolvers<
   ParentType = ResolversTypes["Language"]
 > = {
   _id?: Resolver<ResolversTypes["String"], ParentType, ContextType>;
+  languageId?: Resolver<ResolversTypes["String"], ParentType, ContextType>;
   name?: Resolver<ResolversTypes["String"], ParentType, ContextType>;
   isActive?: Resolver<ResolversTypes["Boolean"], ParentType, ContextType>;
 };

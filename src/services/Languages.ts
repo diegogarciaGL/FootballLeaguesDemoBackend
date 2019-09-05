@@ -5,6 +5,7 @@ import { Language, LanguageInput } from '../graphql/generated/resolvers-types';
 const parseLanguage = (data: Document): Language => {
   const language: Language = {
     _id: data._id,
+    languageId: data.get('languageId'),
     name: data.get('name'),
     isActive: data.get('isActive')
   };

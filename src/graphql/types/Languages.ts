@@ -1,6 +1,7 @@
 export default `
   type Language {
     _id: String!
+    languageId: String!
     name: String!
     isActive: Boolean!
   }

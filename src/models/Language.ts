@@ -1,6 +1,10 @@
 import mongoose, { Schema } from 'mongoose';
 
 const LanguageScheme = new Schema({
+  languageId: {
+    type: String,
+    required: true
+  },
   name: {
     type: String,
     required: true
