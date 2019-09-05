@@ -15,6 +15,18 @@ export enum CacheControlScope {
   Private = "PRIVATE"
 }
 
+export type Language = {
+  _id: Scalars["String"];
+  name: Scalars["String"];
+  isActive: Scalars["Boolean"];
+};
+
+export type LanguageInput = {
+  _id?: Maybe<Scalars["String"]>;
+  name: Scalars["String"];
+  isActive: Scalars["Boolean"];
+};
+
 export type League = {
   _id: Scalars["String"];
   name: Scalars["String"];
@@ -29,9 +41,14 @@ export type LeagueInput = {
 };
 
 export type Mutation = {
+  newLanguage?: Maybe<Language>;
   newLeague: League;
   newTeam: Team;
   newPlayer: Player;
+};
+
+export type MutationNewLanguageArgs = {
+  input: LanguageInput;
 };
 
 export type MutationNewLeagueArgs = {
@@ -66,6 +83,7 @@ export type PlayerInput = {
 };
 
 export type Query = {
+  languages?: Maybe<Array<Maybe<Language>>>;
   leagues: Array<League>;
   league?: Maybe<League>;
   team?: Maybe<Team>;
@@ -186,16 +204,18 @@ export type DirectiveResolverFn<
 /** Mapping between all available schema types and the resolvers types */
 export type ResolversTypes = {
   Query: {};
-  League: League;
+  Language: Language;
   String: Scalars["String"];
+  Boolean: Scalars["Boolean"];
+  League: League;
   Team: Team;
   Player: Player;
   Int: Scalars["Int"];
   Mutation: {};
+  LanguageInput: LanguageInput;
   LeagueInput: LeagueInput;
   TeamInput: TeamInput;
   PlayerInput: PlayerInput;
-  Boolean: Scalars["Boolean"];
   CacheControlScope: CacheControlScope;
   Upload: Scalars["Upload"];
 };
@@ -209,6 +229,15 @@ export type CacheControlDirectiveResolver<
     scope?: Maybe<Maybe<CacheControlScope>>;
   }
 > = DirectiveResolverFn<Result, Parent, ContextType, Args>;
+
+export type LanguageResolvers<
+  ContextType = any,
+  ParentType = ResolversTypes["Language"]
+> = {
+  _id?: Resolver<ResolversTypes["String"], ParentType, ContextType>;
+  name?: Resolver<ResolversTypes["String"], ParentType, ContextType>;
+  isActive?: Resolver<ResolversTypes["Boolean"], ParentType, ContextType>;
+};
 
 export type LeagueResolvers<
   ContextType = any,
@@ -228,6 +257,12 @@ export type MutationResolvers<
   ContextType = any,
   ParentType = ResolversTypes["Mutation"]
 > = {
+  newLanguage?: Resolver<
+    Maybe<ResolversTypes["Language"]>,
+    ParentType,
+    ContextType,
+    MutationNewLanguageArgs
+  >;
   newLeague?: Resolver<
     ResolversTypes["League"],
     ParentType,
@@ -269,6 +304,11 @@ export type QueryResolvers<
   ContextType = any,
   ParentType = ResolversTypes["Query"]
 > = {
+  languages?: Resolver<
+    Maybe<Array<Maybe<ResolversTypes["Language"]>>>,
+    ParentType,
+    ContextType
+  >;
   leagues?: Resolver<Array<ResolversTypes["League"]>, ParentType, ContextType>;
   league?: Resolver<
     Maybe<ResolversTypes["League"]>,
@@ -323,6 +363,7 @@ export interface UploadScalarConfig
 }
 
 export type Resolvers<ContextType = any> = {
+  Language?: LanguageResolvers<ContextType>;
   League?: LeagueResolvers<ContextType>;
   Mutation?: MutationResolvers<ContextType>;
   Player?: PlayerResolvers<ContextType>;
