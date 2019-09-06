@@ -6,7 +6,12 @@ const parseTeam = (data: Document): Team => {
   const team: Team = {
     _id: data._id,
     name: data.get('name'),
-    leagueId: data.get('leagueId')
+    leagueId: data.get('leagueId'),
+    league: {
+      _id: '',
+      country: '',
+      name: ''
+    }
   };
   return team;
 }

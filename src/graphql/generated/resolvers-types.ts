@@ -71,7 +71,7 @@ export type Player = {
   position?: Maybe<Scalars["String"]>;
   nationality?: Maybe<Scalars["String"]>;
   teamId: Scalars["String"];
-  team: Team;
+  team?: Maybe<Team>;
 };
 
 export type PlayerInput = {
@@ -299,7 +299,7 @@ export type PlayerResolvers<
     ContextType
   >;
   teamId?: Resolver<ResolversTypes["String"], ParentType, ContextType>;
-  team?: Resolver<ResolversTypes["Team"], ParentType, ContextType>;
+  team?: Resolver<Maybe<ResolversTypes["Team"]>, ParentType, ContextType>;
 };
 
 export type QueryResolvers<

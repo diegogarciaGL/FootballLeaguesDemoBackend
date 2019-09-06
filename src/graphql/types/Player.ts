@@ -6,7 +6,7 @@ export default `
     position: String
     nationality: String
     teamId: String!
-    team: Team!
+    team: Team
   }
   input PlayerInput {
     _id: String
