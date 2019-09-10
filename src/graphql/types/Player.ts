@@ -18,6 +18,7 @@ export default `
   }
   type Query {
     player(playerId: String!): Player
+    players(teamId: String!): [Player!]
   }
   type Mutation {
     newPlayer(input: PlayerInput!): Player!

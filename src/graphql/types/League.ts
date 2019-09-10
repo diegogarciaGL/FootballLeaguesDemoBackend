@@ -12,7 +12,7 @@ export default `
   }
   type Query {
     leagues: [League!]!
-    leage(leagueId: String!): League
+    league(leagueId: String!): League
   }
   type Mutation {
     newLeague(input: LeagueInput!): League!
