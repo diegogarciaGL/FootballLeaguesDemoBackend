@@ -4,7 +4,7 @@ if (process.env.NODE_ENV !== 'production') {
   dotenv.config({ path: '.env' });
 }
 
-import express from 'express';
+import express from "express";
 import mongoose from 'mongoose';
 import { typeDefs, resolvers } from './graphql';
 import https from 'https';

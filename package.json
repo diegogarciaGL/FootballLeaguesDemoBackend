@@ -15,7 +15,7 @@
     "generate-gql-types": "NODE_TLS_REJECT_UNAUTHORIZED=0 graphql-codegen --debug --config graphqlcodegen.yml",
     "update-apollo-service": "apollo service:push",
     "update-grapqhl-scheme-remote": "yarn generate-gql-types && yarn update-apollo-service",
-    "lint": "eslint --ignore-path .gitignore ."
+    "lint": "eslint --ignore-path .gitignore --ignore-path src/graphql/generated/**.ts './src/**/*.ts'"
   },
   "dependencies": {
     "@babel/cli": "7.4.4",
@@ -58,5 +58,11 @@
     "eslint-config-prettier": "6.2.0",
     "prettier": "1.18.2",
     "typescript": "3.4.5"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "yarn lint",
+      "pre-push": "yarn lint"
+    }
   }
 }
