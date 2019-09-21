@@ -1,5 +1,5 @@
 import { Resolvers, League, Team } from '../generated/resolvers-types';
-import { getLeagues, getLeague } from '../../services/Leagues';
+import { getLeagues, getLeague, newLeague } from '../../services/Leagues';
 import { getTeams } from '../../services/Teams';
 
 const leaguesResolvers: Resolvers = {
@@ -9,6 +9,11 @@ const leaguesResolvers: Resolvers = {
     },
     league: async (root, { leagueId }): Promise<League | null> => {
       return await getLeague(leagueId);
+    }
+  },
+  Mutation: {
+    newLeague: async (root, { input }): Promise<League> => {
+      return await newLeague(input);
     }
   },
   League: {

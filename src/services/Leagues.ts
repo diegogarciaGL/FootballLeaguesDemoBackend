@@ -22,7 +22,11 @@ const getLeague = async (leagueId: string): Promise<League | null> => {
 }
 
 const newLeague = async (input: LeagueInput): Promise<League> => {
-  return parseLeague(await LeagueModel.create(input));
+  const league = await LeagueModel.create({
+    name: input.name,
+    country: input.country
+  });
+  return parseLeague(league);
 }
 
 export {
