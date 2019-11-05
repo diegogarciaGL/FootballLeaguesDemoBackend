@@ -34,7 +34,7 @@
     "graphql-tools": "4.0.4",
     "madge": "3.4.4",
     "merge-graphql-schemas": "1.5.8",
-    "mongoose": "5.5.8",
+    "mongoose": "5.7.5",
     "node-fetch": "2.6.0",
     "nodemon": "1.19.0"
   },
