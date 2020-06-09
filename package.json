@@ -25,7 +25,7 @@
     "@types/ejs": "2.6.3",
     "@types/node-fetch": "2.5.0",
     "apollo-engine": "1.1.2",
-    "apollo-server-express": "2.5.0",
+    "apollo-server-express": "2.14.2",
     "compression": "1.7.4",
     "dotenv": "8.0.0",
     "express": "4.16.4",
